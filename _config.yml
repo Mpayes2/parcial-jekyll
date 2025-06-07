@@ -2,8 +2,8 @@ title: Mi Sitio Jekyll
 email: mpayesp2@miumg.edu.gt
 description: >- 
   Sitio web de ejemplo con Jekyll.
-baseurl: "" # para GitHub Pages puede ir como "/repositorio"
-url: "https://tuusuario.github.io"
+baseurl: "/parcial-jekyll" # para GitHub Pages puede ir como "/repositorio"
+url: "https://Mpayes2.github.io"
 twitter_username: ejemplo
 github_username: tuusuario
 
